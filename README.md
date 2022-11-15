@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **testing QA, QC and requirements analyst.**
+- 🌱 I’m currently learning **Testing QA, QC and requirements analyst.**
 
 - 👯 I’m looking to collaborate on **Testing QA or QC and Web developer projects.**
 
