@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate QA Engineer and Frontend Developer from Argentina</h3>
+<h3 align="center">A passionate QA Engineer and Web Developer from Argentina</h3>
 
 - 🌱  I specialize in **Manual and Automated Testing**, with a strong focus on **QA, and Requirements Analysis.**
 
