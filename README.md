@@ -22,6 +22,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="" target="blank" rel=""><img align="center" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_959a0b85e4aa2315bfb29d2ac0023582/spirateam.png" alt="[spirateam](https://www.inflectra.com/)" height="30" width="30"/></a>
+  <a href="" target="blank" rel=""> <img align="center" src="https://2.bp.blogspot.com/-i9LSqeqE5wc/Uiro9AUyTDI/AAAAAAAAA9M/aNOzyhSIo5w/s1600/testlink-logo.jpg" alt="testlink" height="40" width="60"/></a>
+  <a href="" target="blank" rel=""> <img align="center" src="https://www.logiciel-libre.org/stock/img/product/logo-mantis.png" alt="Mantis" height="60" width="60"/></a>
   <a href="" target="blank" rel=""><img align="center" src="https://iconape.com/wp-content/png_logo_vector/jira-2.png" alt="jira" height="30" width="30"/></a>
   <a href="" target="blank" rel=""><img align="center" src="https://marketplace-cdn.atlassian.com/files/11638493-3ff7-4f84-9f2d-cd10d8a599dc?fileType=image&amp;mode=full-fit" alt="xray" height="40" width="40"/></a>
   <a href="" target="blank" rel=""><img align="center" src="https://pluspng.com/img-png/trello-png-trello-png-1600.png" alt="trello" height="40" width="40"/></a>
