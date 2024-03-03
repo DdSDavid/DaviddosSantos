@@ -36,7 +36,7 @@
   <a href="" target="blank" rel=""><img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" height="30" width="40"/></a> 
   <a href="" target="blank" rel=""><img align="center" src="https://cdn.sanity.io/images/o0o2tn5x/production/13b9c8412093e2f0cdb5495e1f59144967fa1664-512x512.jpg" alt="cypress" height="30" width="40"/></a>
   <a href="" target="blank" rel=""><img align="center" src="https://vectorified.com/images/jmeter-icon-28.png" alt="JMeter" height="30" width="40"/></a>
-  <a href="" target="blank" rel=""><img align="center" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="[postman](https://david-qyoaifwxoipf.postman.co/me/collections)" height="30" width="40"/></a>
+  <a href="" target="blank" rel=""><img align="center" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="[postman]https://www.postman.com/daviddds89" height="30" width="40"/></a>
   <a href="" target="blank" rel=""><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40" width="60"/></a>
 </div>
 
