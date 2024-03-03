@@ -15,7 +15,7 @@
 
 <h3 align="left">Feel free to contact me if you have any questions or would like to discuss a project!:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/david-dos-santos" target="blank"><img align="center" src="http://lofrev.net/wp-content/photos/2017/04/linkedin_logo.jpg" alt="www.linkedin.com/in/david-dos-santos" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/david-dos-santos" target="blank"><img align="center" src="http://lofrev.net/wp-content/photos/2017/04/linkedin_logo.jpg" alt="www.linkedin.com/in/david-dos-santos" height="30" width="30"/></a>
 <a href="https://discord.gg/David dos Santos#4241" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="David dos Santos#4241" height="40" width="40" /></a>
 </p>
 
