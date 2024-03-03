@@ -1,5 +1,3 @@
-<div align="center">
-
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate QA Engineer and Web Developer from Argentina</h3>
 
@@ -44,5 +42,4 @@
   <a href="" target="blank" rel=""><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40" width="60"/></a>
 </div>
 
-</div>
 
